@@ -12,7 +12,7 @@ A collaborative to-do list application designed for effective team task manageme
 ## Technologies Used
 
 - **Frontend**: React, TypeScript, Tailwind CSS
-- **Build Tool**: Vite / Webpack (mention one if you have a specific setup)
+- **Build Tool**: Nextjs
 - **Deployment**: Vercel
 
 ## Getting Started
